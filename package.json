@@ -1,0 +1,25 @@
+{
+  "name": "myweb3_journey",
+  "version": "1.0.0",
+  "description": "Welcome to my **Web3 experience repo** — a living document of everything I'm learning and building in the world of blockchain, smart contracts, and decentralized applications.",
+  "main": "index.js",
+  "scripts": {
+    "lint-md": "markdownlint-cli2 \"*.md\" \"**/*.md\" \"!node_modules\"",
+    "lint-md:fix": "markdownlint-cli2 --fix \"*.md\" \"**/*.md\" \"!node_modules\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveen-2111-dev/MyWeb3_journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/naveen-2111-dev/MyWeb3_journey/issues"
+  },
+  "homepage": "https://github.com/naveen-2111-dev/MyWeb3_journey#readme",
+  "devDependencies": {
+    "markdownlint-cli2": "^0.18.1"
+  }
+}
