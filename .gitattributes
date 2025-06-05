@@ -1,5 +1,0 @@
-.markdownlint-cli2.jsonc export-ignore
-.markdownlintignore export-ignore
-package.json export-ignore
-package-lock.json export-ignore
-.gitignore export-ignore
